@@ -1,2 +1,5 @@
-# Portfolio
-Aerospace Engineering Portfolio | CAD | FEA | CFD | 
+# Aerospace Engineering Portfolio
+
+Welcome to my engineering portfolio.
+
+This repository contains my CAD, FEA, CFD, Manufacturing, and Sustainability projects.
