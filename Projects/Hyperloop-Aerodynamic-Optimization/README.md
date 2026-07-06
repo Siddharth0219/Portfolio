@@ -33,8 +33,4 @@ This project investigates the influence of Hyperloop pod geometry on aerodynamic
 - Data Interpretation
 - Technical Documentation
 
-## Project Files
-- Project Report
-- CAD Models
-- Simulation Results
-- Images
+
