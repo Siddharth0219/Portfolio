@@ -106,6 +106,3 @@ This project focuses on the design, assembly, and kinematic validation of a plan
 
 **Siddharth S**
 
-B.Tech Aerospace Engineering (2022–2026)
-
-Mechanical Design | CAD | Product Development | FEA
